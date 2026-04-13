@@ -1,0 +1,15 @@
+# Whisper model cache
+*.pt
+*.bin
+
+# Audio files
+*.mp3
+*.wav
+*.webm
+*.m4a
+*.ogg
+*.flac
+
+# Python
+__pycache__/
+*.pyc
